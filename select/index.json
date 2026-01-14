@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "レビテト",
+  "base_artist": "LOL",
+  "createdAt": "2026-01-14T08:07:35.448970Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "レビテト (feat. 重音テト)",
+      "artist": "LOL",
+      "has_synced": true,
+      "path": "select/01_レビテト_(feat._重音テト)_LOL.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "レビテト",
+      "artist": "loL",
+      "has_synced": false,
+      "path": "select/pl_01_レビテト_loL.txt"
+    }
+  ]
+}
